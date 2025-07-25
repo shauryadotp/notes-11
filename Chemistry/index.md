@@ -1,1 +1,6 @@
-[Unit 1 - Some Basic Concepts of Chemistry](./unit3.md)
+[Unit 1 - Some Basic Concepts of Chemistry](unit1-notes.md)
+[Unit 2 - Structure of Atoms](unit2-notes.md)
+[Unit 3 - Classification of Atoms and Periodicity in Properties](unit3-notes.md)
+[Unit 4 - Chemical Bonding and Molecular Structure](unit4-notes.md)
+[Unit 5 - Thermodynamics](unit5-notes.md)
+[Unit 6 - Equilibrium](./unit.md)

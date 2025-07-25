@@ -1,4 +1,4 @@
-
+# Unit 3 - Classification of Atoms and Periodicity in Properties
 ## 3.1 Introduction
 
 As the number of discovered elements increases, there was a need of a classification system for easy study of properties of elements.

@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a4cd358fe65e0599",
+        "id": "6827b8fefd1acbe0",
         "type": "tabs",
         "children": [
           {
-            "id": "440b192c0406a234",
+            "id": "43d8e25978d239f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry/unit3.md",
+                "file": "Chemistry/unit-2/unit2-notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "unit3"
-            }
-          },
-          {
-            "id": "dda92293edc23c9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemistry/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "unit2-notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,12 +168,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dda92293edc23c9b",
+  "active": "43d8e25978d239f6",
   "lastOpenFiles": [
-    "Chemistry/unit3.md",
+    "Chemistry/unit-1/unit1-notes.md",
+    "Chemistry/unit-3/unit3-notes.md",
+    "Chemistry/unit-4/unit4-notes.md",
+    "Chemistry/unit-5/unit5-notes.md",
+    "Chemistry/unit-6/unit6-notes.md",
+    "Chemistry/unit-6",
+    "Chemistry/unit-5",
+    "unit5-",
+    "Chemistry/unit-4",
+    "Chemistry/unit-3",
+    "Chemistry/unit-2",
+    "Untitled 1",
     "Chemistry/index.md",
+    "Untitled.md",
+    "Untitled",
+    "Chemistry/unit-1",
+    "Chemistry/unit-2/unit2-notes.md",
     "README.md",
-    "Chemistry",
     "Chemistry",
     "Welcome.md"
   ]
